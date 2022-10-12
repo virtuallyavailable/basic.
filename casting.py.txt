@@ -1,0 +1,6 @@
+x = int("10")
+y = float("4.5")
+z = str("Welcome Miss, 76")
+print(x)
+print(y)
+print(z)

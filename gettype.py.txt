@@ -1,0 +1,6 @@
+x = 5
+y = "Pascal"
+z = 28.5
+print(type(x))
+print (type(y))
+print(type(z))

@@ -1,0 +1,4 @@
+y = 10
+z = "John"
+print(y)
+print(z)

@@ -1,0 +1,6 @@
+myname = print("Hello Miss")
+my_name = print("Hello Miss")
+_my_name = print ("Hello Miss")
+myName = print ("Hello Miss")
+MYNAME = print ("Hello Miss")
+myname2 = print("Hello Miss")
